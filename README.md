@@ -3,7 +3,7 @@
 
 ## Requirements
 
-* Linux
+* Windows
 * Git
 * Java 11
 * Spring tool suite 4
